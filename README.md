@@ -8,7 +8,7 @@ Bacharelando em Ciência da Computação na Universidade Federal da Bahia e Dese
 
 ## Habilidades técnicas:
 
-<img src="./imagens/Habilidades tecnicas.png" width="530" height="242">
+<img src="./imagens/Habilidades tecnicas.png"  width="530" height="242">
 
 ### As minhas principais linguagens de programação no momento são:
 
