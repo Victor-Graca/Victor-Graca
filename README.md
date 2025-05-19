@@ -1,8 +1,8 @@
-# Oi, o meu nome é == Victor Graça ==.
+# Oi, o meu nome é Victor Graça.
 
 ## Sobre mim:
 
-<img src="./imagens/Sobre mim.png" width="530" height="242">
+<img src="./imagens/Sobre mim.png" width="403" height="242">
 
 Bacharelando em Ciência da Computação na Universidade Federal da Bahia e Desenvolvedor Trainee Back-End da [TITAN](https://www.titanci.com.br/), sou apaixonado por tecnologia desde muito jovem e sempre procuro aprender cada vez mais.
 
@@ -25,7 +25,7 @@ Além disso, possuo um pouco de conhecimento em HTML, CSS e JavaScript.
 
 ## Metas de aprendizado:
 
-<img src="./imagens/Metas de aprendizado.png" width="530" height="242">
+<img src="./imagens/Metas de aprendizado.png" width="395" height="205">
 
 ### No momento, tenho como metas de aprendizado:
 
