@@ -31,6 +31,6 @@ Além disso, possuo um pouco de conhecimento em HTML, CSS e JavaScript.
 
 - Melhorar as minhas habilidades em lógica de programação.
 
-- Desenvolver mais projetos de programação. 
+- Desenvolver mais projetos. 
 
 - Ter uma base mais sólida tanto em Back-End quanto em Front-End.
