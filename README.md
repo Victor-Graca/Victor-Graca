@@ -4,7 +4,7 @@
 
 <img src="./imagens/Sobre mim.png" width="403" height="242">
 
-Bacharelando em Ciência da Computação na Universidade Federal da Bahia e Desenvolvedor Trainee Back-End da [TITAN](https://www.titanci.com.br/), sou apaixonado por tecnologia desde muito jovem e sempre procuro aprender cada vez mais.
+Estudante de Ciência da Computação na Universidade Federal da Bahia e Desenvolvedor Trainee Back-End da [TITAN](https://www.titanci.com.br/), sou apaixonado por tecnologia desde muito jovem e sempre procuro aprender cada vez mais.
 
 ## Habilidades técnicas:
 
