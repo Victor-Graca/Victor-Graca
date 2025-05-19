@@ -1,19 +1,19 @@
-#Oi, o meu nome é ==Victor Graça==.
+# Oi, o meu nome é == Victor Graça ==.
 
-##Sobre mim:
+## Sobre mim:
 
-![sobremim](imagens/Sobre mim.png)
+<img src="./imagens/Sobre mim.png">
 
 Bacharelando em Ciência da Computação na Universidade Federal da Bahia e Desenvolvedor Trainee Back-End da [TITAN](https://www.titanci.com.br/), sou apaixonado por tecnologia desde muito jovem e sempre procuro aprender cada vez mais.
 
-##Habilidades técnicas:
+## Habilidades técnicas:
 
-![habilidadestecnicas](imagens/Habilidades tecnicas.png)
+<img src="./imagens/Habilidades tecnicas.png">
 
-###As minhas principais linguagens de programação no momento são:
+### As minhas principais linguagens de programação no momento são:
 
 - Python
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="200" height="100">
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="100" height="100">
 
 - Java
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="200" height="100">
@@ -23,11 +23,11 @@ Bacharelando em Ciência da Computação na Universidade Federal da Bahia e Dese
 
 Além disso, possuo um pouco de conhecimento em HTML, CSS e JavaScript.
 
-##Metas de aprendizado:
+## Metas de aprendizado:
 
-![metasdeaprendizado](imagens/Metas de aprendizado.png)
+<img src="./imagens/Metas de aprendizado.png">
 
-###No momento, tenho como metas de aprendizado:
+### No momento, tenho como metas de aprendizado:
 
 - Melhorar as minhas habilidades em lógica de programação.
 
